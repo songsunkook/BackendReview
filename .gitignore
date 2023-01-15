@@ -1,3 +1,4 @@
 src/main/resources/mybatis/config.properties
 lib/
 .idea/
+target/
