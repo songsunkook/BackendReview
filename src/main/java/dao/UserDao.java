@@ -6,7 +6,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-//6차시 mybatis 16차시
+/*
 public class UserDao {
     public void add(User user) throws ClassNotFoundException, SQLException {
         Class.forName("com.mysql.jdbc.Driver");
@@ -19,3 +19,4 @@ public class UserDao {
         connection.close();
     }
 }
+*/
